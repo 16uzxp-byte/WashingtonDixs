@@ -14,6 +14,7 @@
   {
     "Discord": "1228387114723573791",
     "rblx": "aimlockersfangroup"
-  },
+  }
 ]
+
 
