@@ -38,5 +38,9 @@
   {
     "Discord": "1178462515827589240",
     "rblx": "Lobytheinkling"
+  },
+  {
+    "Discord": "995401957445476412",
+    "rblx": "Faithray20831"
   }
 ]
