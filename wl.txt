@@ -41,6 +41,7 @@
   },
   {
     "Discord": "995401957445476412",
-    "rblx": "Faithray20831"
+    "rblx": "FaithRay20831"
   }
 ]
+
